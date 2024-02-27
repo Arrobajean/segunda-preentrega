@@ -1,0 +1,20 @@
+const productos = [
+    {id:1, tipo:"Remera", nombre:"Musculosa Buenos Tiempos", precio: 14, foto: "./media/muscu buenos tiempos.jpg" },
+    {id:2, tipo:"Remera", nombre:"Remera Eterno", precio: 16, foto: "./media/reme eterno.jpg" },
+    {id:3, tipo:"Remera", nombre:"Remera Batik", precio: 10, foto: "./media/reme batik.jpg" },
+    {id:4, tipo:"Remera", nombre:"Remera Global", precio: 10, foto: "./media/reme global.jpg" },
+    {id:5, tipo:"Remera", nombre:"Remera Buenos Tiempos", precio: 14, foto: "./media/reme buenos tiempos.jpg" },
+    {id:6, tipo:"Remera", nombre:"Remera Amor Propio", precio: 15, foto: "./media/reme amor propio.jpg" },
+    {id:7, tipo: "Buzo", nombre: "Buzo Grito", precio: 45, foto: "./media/buzo grito.jpg"},
+    {id:8, tipo: "Buzo", nombre: "Buzo Negro Extragrande", precio: 38, foto: "./media/buzo negro extragrande.jpg"},
+    {id:9, tipo: "Buzo", nombre: "Buzo Batik Extragrande", precio: 38, foto: "./media/buzo batik extragrande.jpg"},
+    {id:10, tipo: "Buzo", nombre: "Sudadera Cabezas", precio: 38, foto: "./media/sudadera cabezas.jpg"},
+    {id:11, tipo: "Pantalon", nombre: "Pantalón NC", precio: 29, foto: "./media/pant logo.jpg"},
+    {id:12, tipo: "Short", nombre: "Short Brillando en la oscuridad", precio: 12, foto: "./media/short brillando.jpg"},
+    {id:13, tipo: "Short", nombre: "Short Noche", precio: 10, foto: "./media/short noche.jpg"},
+    {id:14, tipo: "Biker", nombre: "Biker negro", precio: 13, foto: "./media/biker negro.jpg"},
+    {id:15, tipo: "Accesorio", nombre: "Lentes Atria", precio: 23, foto: "./media/lentes atria.jpg"},
+    {id:16, tipo: "Accesorio", nombre: "Lentes Venatori", precio: 24, foto: "./media/lentes venatori.jpg"},
+    {id:17, tipo: "Accesorio", nombre: "Gorro Rosa", precio: 80, foto: "./media/gorro rosa.jpg"},
+    {id:18, tipo: "Accesorio", nombre: "Gorro Violeta", precio: 80, foto: "./media/gorro violeta.jpg"}
+];
